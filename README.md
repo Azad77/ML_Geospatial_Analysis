@@ -63,5 +63,5 @@ If you use this repository in your research or projects, please cite it as follo
 author = {Dr. Azad Rasul},
 title = {ML_Geospatial_Analysis: Tutorial code for geospatial analysis using machine learning techniques},
 year = {2024},
-url = {https://github.com/yourusername/yourrepository}
+url = {https://github.com/Azad77/ML_Gespatial_Analysis}
 }
