@@ -54,3 +54,14 @@ Feel free to contribute to this project by submitting pull requests or opening i
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Citation
+
+If you use this repository in your research or projects, please cite it as follows:
+
+@misc{rasul2024ml_geospatial_analysis,
+author = {Dr. Azad Rasul},
+title = {ML_Geospatial_Analysis: Tutorial code for geospatial analysis using machine learning techniques},
+year = {2024},
+url = {https://github.com/yourusername/yourrepository}
+}
